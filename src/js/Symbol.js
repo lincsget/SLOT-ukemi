@@ -28,7 +28,7 @@ export default class Symbol {
       "r2d2",
       "stormtrooper",
       "tie_ln",
-      "yoda",
+      "ms_morioka",
     ];
   }
 
